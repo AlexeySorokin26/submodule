@@ -1,3 +1,6 @@
 [submodule "subLib"]
 	path = subLib
 	url = https://github.com/AlexeySorokin26/subLib.git
+[submodule "lib/spacetime"]
+	path = lib/spacetime
+	url = https://github.com/spencermountain/spacetime.git
